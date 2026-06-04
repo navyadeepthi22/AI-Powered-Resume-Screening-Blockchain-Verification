@@ -46,7 +46,7 @@ The system automates resume screening by analyzing candidate resumes and matchin
 * Cloud deployment
 * Real-time recruitment integrations
 
-## Source Code
+## Project Showcase Repository
 
 This repository serves as a project showcase containing documentation, screenshots, and project artifacts.
 

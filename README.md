@@ -36,7 +36,13 @@ The system automates resume screening by analyzing candidate resumes and matchin
 5. Recruiter receives screening and verification results.
 
 ## Project Screenshots
+## Project Workflow
 
+![Data Flow Diagram](diagrams/data_flow_diagram.jpeg)
+
+## Output
+
+![Output](screenshots/output.jpeg)
 
 
 ## Future Enhancements

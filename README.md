@@ -48,7 +48,7 @@ Custom CSS — Hand-crafted dark theme with glassmorphism
 Font Awesome 6.5.1 — Icons
 Fontshare CDN — Typography (Cabinet Grotesk, General Sans)
 
-## System Workflow
+## 📈System Workflow
 
 1. Candidate uploads resume.
 2. Resume is processed using NLP techniques.
@@ -56,17 +56,17 @@ Fontshare CDN — Typography (Cabinet Grotesk, General Sans)
 4. Certificate data is verified using blockchain records.
 5. Recruiter receives screening and verification results.
 
-## Project Screenshots
-## Project Workflow
+## 📸Project Screenshots
+## ⚙️Project Workflow
 
 ![Data Flow Diagram](diagrams/data_flow_diagram.jpeg)
 
-## Output
+## ✅Output
 
 ![Output](screenshorts/output.jpeg)
 
 
-## Future Enhancements
+## 🔮Future Enhancements
 
 * Advanced NLP models
 * Public blockchain deployment

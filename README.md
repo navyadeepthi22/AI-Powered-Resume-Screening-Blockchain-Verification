@@ -1,10 +1,13 @@
 # AI-Powered Resume Screening & Blockchain Certificate Verification System
 
-## Overview
+##Overview
 
-This project combines Artificial Intelligence (AI), Natural Language Processing (NLP), and Blockchain technology to improve recruitment processes.
+This project integrates Artificial Intelligence (AI), Natural Language Processing (NLP), and Blockchain technology to streamline recruitment and certificate verification processes. The system automatically analyzes resumes, ranks candidates based on job requirements, and verifies certificates using blockchain-based records.
 
-The system automates resume screening by analyzing candidate resumes and matching them with job requirements. It also provides secure certificate verification using blockchain technology to prevent fraudulent credentials.
+##Problem Statement
+
+Traditional recruitment processes are time-consuming and prone to human bias. Certificate fraud is another major challenge faced by organizations. This project addresses both issues by automating candidate screening and enabling secure certificate verification.
+
 
 ## Features
 

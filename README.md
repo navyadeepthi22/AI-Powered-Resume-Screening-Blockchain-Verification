@@ -21,32 +21,32 @@ Traditional recruitment processes are time-consuming and prone to human bias. Ce
 ## 🛠️Technologies Used
 
 ### Backend
-Python 3.10+ — Core runtime
-Flask — Web framework, session management, routing
-SQLite3 — User authentication database
-Werkzeug.security — Password hashing (PBKDF2:SHA256)
-PyPDF2 — PDF text extraction
-scikit-learn — TF-IDF Vectorizer + cosine similarity
-NLTK — English stopwords removal
-Web3.py — Ethereum blockchain interaction
-hashlib — SHA-256 hashing for certificates
+* python 3.10+ — Core runtime
+* Flask — Web framework, session management, routing
+* SQLite3 — User authentication database
+* Werkzeug.security — Password hashing (PBKDF2:SHA256)
+* PyPDF2 — PDF text extraction
+* scikit-learn — TF-IDF Vectorizer + cosine similarity
+* NLTK — English stopwords removal
+* Web3.py — Ethereum blockchain interaction
+* hashlib — SHA-256 hashing for certificates
 ### Certificate Processing
-pytesseract — OCR for image-based certificates
-Pillow — Image processing
-BeautifulSoup — HTML parsing for issuer verification
-requests — HTTP client for verification APIs
+* pytesseract — OCR for image-based certificates
+* Pillow — Image processing
+* BeautifulSoup — HTML parsing for issuer verification
+* requests — HTTP client for verification APIs
 ### Messaging
-Twilio WhatsApp API — Outbound requests + inbound webhook
+* Twilio WhatsApp API — Outbound requests + inbound webhook
 ### Blockchain
-Solidity ^0.8.0 — Smart contract language
-Ganache — Local Ethereum blockchain
-web3.py — Python ↔ Ethereum bridge
-solc-x — Solidity compiler
+* Solidity ^0.8.0 — Smart contract language
+* Ganache — Local Ethereum blockchain
+* web3.py — Python ↔ Ethereum bridge
+* solc-x — Solidity compiler
 ### Frontend
-HTML5 / CSS3 / JavaScript ES6+ — SPA frontend
-Custom CSS — Hand-crafted dark theme with glassmorphism
-Font Awesome 6.5.1 — Icons
-Fontshare CDN — Typography (Cabinet Grotesk, General Sans)
+* HTML5 / CSS3 / JavaScript ES6+ — SPA frontend
+* Custom CSS — Hand-crafted dark theme with glassmorphism
+* Font Awesome 6.5.1 — Icons
+* Fontshare CDN — Typography (Cabinet Grotesk, General Sans)
 
 ## 📈System Workflow
 

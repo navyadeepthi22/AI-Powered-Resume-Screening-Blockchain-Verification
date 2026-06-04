@@ -37,7 +37,7 @@ The system automates resume screening by analyzing candidate resumes and matchin
 
 ## Project Screenshots
 
-(Add screenshots below)
+
 
 ## Future Enhancements
 
@@ -46,9 +46,4 @@ The system automates resume screening by analyzing candidate resumes and matchin
 * Cloud deployment
 * Real-time recruitment integrations
 
-## Team
 
-* Anurag Reddy K
-* Vemuri Venkata Shashanth
-* Navya Deepthi K
-* Jagan Mohan J

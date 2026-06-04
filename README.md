@@ -46,4 +46,11 @@ The system automates resume screening by analyzing candidate resumes and matchin
 * Cloud deployment
 * Real-time recruitment integrations
 
+## Source Code
+
+This repository serves as a project showcase containing documentation, screenshots, and project artifacts.
+
+The implementation/source code for the project is available at:
+
+https://github.com/Shashanth-V/AI-Resume-Screening
 

@@ -42,7 +42,7 @@ The system automates resume screening by analyzing candidate resumes and matchin
 
 ## Output
 
-![Output](screenshots/output.jpeg)
+![Output](screenshorts/output.jpeg)
 
 
 ## Future Enhancements
